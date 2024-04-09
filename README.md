@@ -1,6 +1,6 @@
 # Individual-based model of alternative reproductive tactics in *Oecanthus henryi* (an Indian tree cricket species)
 
-This repository contains scripts used in Sadiq, Bhat, <i>et al.</i> 2023. The associated manuscript can be found on biorxiv at this link.
+This repository contains scripts used in Sadiq, Bhat, <i>et al.</i> 2024. The associated manuscript can be found on bioRxiv at this [link](https://doi.org/10.1101/2024.03.25.586515).
 
 ## Problem statement and goals
 Males of the tree cricket *Oecanthus henryi* use one of three distinct alternative reproductive tactics (ARTs) to obtain mates:
